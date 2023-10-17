@@ -1153,3 +1153,75 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.10.17-19.14.22:349][ 40]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
 [2023.10.17-19.14.22:349][ 40]SourceControl: Error: Connection Error: Failed to enable Git revision control. You need to initialize the project as a Git repository first.
 [2023.10.17-19.14.58:234][431]LogSlate: Window 'Revision Control Login' being destroyed
+[2023.10.17-19.16.08:801][667]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.17-19.16.17:702][699]Cmd: DELETE
+[2023.10.17-19.16.17:702][699]Cmd: ACTOR DELETE
+[2023.10.17-19.16.17:704][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:719][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:732][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:746][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:759][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:772][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:786][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:799][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:811][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:822][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:833][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:845][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:856][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:867][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:878][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:888][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:898][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:908][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:917][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:927][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:936][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:945][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:954][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:962][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:972][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:981][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:989][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.17:997][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.18:005][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.18:011][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.18:018][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.18:026][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.18:032][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.18:039][699]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.18:049][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.10.17-19.16.18:050][699]LogEditorActor: Deleted 34 Actors (0.348 secs)
+[2023.10.17-19.16.23:541][334]Cmd: DELETE
+[2023.10.17-19.16.23:541][334]Cmd: ACTOR DELETE
+[2023.10.17-19.16.23:543][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:549][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:556][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:562][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:568][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:573][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:578][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:583][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:588][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:592][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:597][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:601][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:606][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:610][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:614][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:618][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:622][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:626][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:629][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:633][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:636][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:639][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:642][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:645][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:647][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:650][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:652][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:654][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:656][334]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.17-19.16.23:662][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.10.17-19.16.23:663][334]LogEditorActor: Deleted 29 Actors (0.121 secs)
